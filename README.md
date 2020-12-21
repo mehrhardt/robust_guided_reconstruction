@@ -13,7 +13,7 @@ and [ct_rotations_multi_step_method.py](code/ct_rotations_multi_step_method.py),
 which implement a three-step reconstruction and registration method call MATLAB 
 which requires version compatibility (https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/python-support.pdf)
 and an installation of the MATLAB engine (https://de.mathworks.com/help/matlab/matlab-engine-for-python.html).
-Since the three-step method only serves as comparison for our proposed method
+Since the three-step method only serves as comparison for our proposed method,
 these scripts are not essential.
 
 
